@@ -1,5 +1,5 @@
-telegram:https://t.me/joinchat/JExbmhP14_0FzbDI1FAIIA
+telegram:
+https://t.me/joinchat/JExbmhP14_0FzbDI1FAIIA
 
-telegraph:
-
-email:pincongmagazine@protonmail.com
+email:
+pincongmagazine@protonmail.com
