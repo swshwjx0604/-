@@ -1,3 +1,7 @@
+https://t.me/ArtForPublic
+
+<投稿>
+
 telegram:
 https://t.me/ArtIsPublic
 
