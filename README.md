@@ -1,5 +1,5 @@
 telegram:
-t.me/@ArtIsPublic
+t.me/ArtIsPublic
 
 email:
 pincongmagazine@protonmail.com
