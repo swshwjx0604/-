@@ -4,7 +4,7 @@ https://t.me/ArtForPublic
 
 |Vol|telegraph|
 |:-:|:-:|
-|1|https://telegra.ph/%E5%93%81%E8%91%B1%E6%9C%88%E5%88%8A-Vol1-02-02|
+|1|https://telegra.ph/品葱月刊-Vol1-02-02|
 
 投稿
 
