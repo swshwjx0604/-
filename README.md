@@ -12,10 +12,11 @@
 - [ ] hjw
 - [ ] djiowl
 
-|品葱精選||
+|品葱精選|article|
 |:-:|:-:|
 |1|https://pincong.rocks/hot/|
 |2|https://pincong.rocks/article/2219|
+|3|https://pincong.rocks/question/13778|
 
 |品蔥搬運|||
 |:-:|:-:|:-:|
