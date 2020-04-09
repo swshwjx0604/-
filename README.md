@@ -7,9 +7,8 @@
 |:-:|:-|:-|
 |1|踏上理想的征途|https://telegra.ph/品葱月刊-Vol1-02-02|
 |2|大國戰疫與無法控制疫情的政府|https://telegra.ph/品葱月刊-Vol2-03-07|
-
-品葱
 ***
+品葱
 |精選|introduction|website|github|
 |:-:|:-:|:-:|:-:|
 |1||https://pincong.rocks/hot/||
