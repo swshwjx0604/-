@@ -9,7 +9,7 @@
 
 |搬運|introduction|link|
 |:-:|:-:|:-:|
-|official|https://pincong.rocks/article/2219||
+|pincong||https://pincong.rocks/article/2219||
 ***
 |Historic Source||Github|
 |:-:|:-:|:-:|
