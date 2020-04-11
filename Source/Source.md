@@ -1,5 +1,5 @@
 品葱
-|精選|introduction|website|github|
+|精選|introduction|link|github|
 |:-:|:-:|:-:|:-:|
 |1||https://pincong.rocks/hot/||
 |2||https://pincong.rocks/article/2219||
