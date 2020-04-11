@@ -9,9 +9,9 @@
 
 1. wuhananyuming@gmail.com
 
-#素材
+文摘
 
-书海拾贝：
+素材
 无产阶级图书馆
 https://www.proletarian.me/
 马克思主义文库
