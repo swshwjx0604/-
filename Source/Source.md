@@ -17,13 +17,5 @@
 |Technical Source||
 |:-:|:-:|
 |iYouPort|https://www.iyouport.org/|
-***
-- [x] a
-- [ ] b
-- [ ] c
-1. wuhananyuming@gmail.com
 
-|||
-|||
-|:-:|:-:|
-|||
+1. wuhananyuming@gmail.com
