@@ -7,8 +7,8 @@
 |official||https://pincong.rocks/hot/||
 |1|https://pincong.rocks/question/13778|https://project-gutenberg.github.io/Pincong/|https://github.com/Project-Gutenberg/Pincong|
 
-|搬運|link|
-|:-:|:-:|
+|搬運|introduction|link|
+|:-:|:-:|:-:|
 |official|https://pincong.rocks/article/2219||
 ***
 |Historic Source||Github|
