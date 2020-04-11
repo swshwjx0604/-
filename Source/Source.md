@@ -5,7 +5,7 @@
 |article|introduction|link|github|
 |:-:|:-:|:-:|:-:|
 |official||https://pincong.rocks/hot/||
-|3|https://pincong.rocks/question/13778|https://project-gutenberg.github.io/Pincong/|https://github.com/Project-Gutenberg/Pincong|
+|1|https://pincong.rocks/question/13778|https://project-gutenberg.github.io/Pincong/|https://github.com/Project-Gutenberg/Pincong|
 
 |搬運|||
 |:-:|:-:|:-:|
