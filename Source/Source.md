@@ -7,11 +7,9 @@
 |official||https://pincong.rocks/hot/||
 |1|https://pincong.rocks/question/13778|https://project-gutenberg.github.io/Pincong/|https://github.com/Project-Gutenberg/Pincong|
 
-|搬運|||
-|:-:|:-:|:-:|
-|official||https://pincong.rocks/article/2219||
-|1|翻車新聞|https://www.reddit.com/r/hanren/|
-|2|编程随想|https://program-think.blogspot.com/|
+|搬運||
+|:-:|:-:|
+|official|https://pincong.rocks/article/2219||
 ***
 |Historic Source||Github|
 |:-:|:-:|:-:|
