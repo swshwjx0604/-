@@ -1,6 +1,7 @@
 无产阶级图书馆
 马克思主义文库
 https://www.marxists.org/chinese/
+https://www.fmprc.gov.cn/web/wjdt_674879/fyrbt_674889/
 
 Telegram频道： 
 维尼之声
