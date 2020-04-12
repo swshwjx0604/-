@@ -3,8 +3,6 @@
 |1|翻車新聞|https://www.reddit.com/r/hanren/|
 |2|编程随想|https://program-think.blogspot.com/|
 
-1. wuhananyuming@gmail.com
-
 文摘
 
 无产阶级图书馆
