@@ -32,6 +32,3 @@ https://terminus2049.github.io/
 网络档案馆
 https://archive.org/
 热点聚焦
-
-特色笑话：
-https://twitter.com/Socialistfist 墙国铁拳现世报
