@@ -1,5 +1,3 @@
-无产阶级图书馆
-
 Telegram频道： 
 维尼之声
 @VoiceofPooh 
