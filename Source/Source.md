@@ -35,6 +35,3 @@ https://archive.org/
 
 特色笑话：
 https://twitter.com/Socialistfist 墙国铁拳现世报
-
-One drive
-https://1drv.ms/u/s!Avm8-DHZW6fab7ZjGEaihQWo82Y?e=udWQWQ
