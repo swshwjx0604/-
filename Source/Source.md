@@ -1,10 +1,9 @@
-|文摘|||
+|文摘|author|wikisource|
 |:-:|:-:|:-:|
 |1|鲁迅|https://zh.wikisource.org/wiki/Author:%E9%AD%AF%E8%BF%85|
 |2|劉曉波||
 
 无产阶级图书馆
-https://www.proletarian.me/
 马克思主义文库
 https://www.marxists.org/chinese/
 
