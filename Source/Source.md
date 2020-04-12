@@ -9,14 +9,3 @@ Telegram频道：
 @daqinggongheguo
 @daqinggongheguo2
 @daqinggongheguo3
-
-404报告：
-自由微信
-https://freewechat.com/
-自由微博
-https://freeweibo.com/ 
-端点星计划
-https://terminus2049.github.io/ 
-网络档案馆
-https://archive.org/
-热点聚焦
