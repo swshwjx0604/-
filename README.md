@@ -27,3 +27,7 @@
 > |:-:|:-:|
 > |iYouPort|https://www.iyouport.org/|
 > |编程随想|https://program-think.blogspot.com/|
+>
+> |文宣|link|
+> |:-:|:-:|
+> |翻車新聞|https://www.reddit.com/r/hanren/|
