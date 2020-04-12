@@ -1,7 +1,6 @@
 ||||
 |:-:|:-:|:-:|
 |1|翻車新聞|https://www.reddit.com/r/hanren/|
-|2|编程随想|https://program-think.blogspot.com/|
 
 文摘
 
