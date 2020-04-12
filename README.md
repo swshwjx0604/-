@@ -31,6 +31,7 @@
 > |文宣|link|
 > |:-:|:-:|
 > |翻車新聞|https://www.reddit.com/r/hanren/|
+> |墙国铁拳现世报|https://twitter.com/Socialistfist|
 >
 > |author|gmail|social media|
 > |:-:|:-:|:-:|
