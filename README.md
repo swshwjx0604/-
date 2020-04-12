@@ -31,3 +31,13 @@
 > |文宣|link|
 > |:-:|:-:|
 > |翻車新聞|https://www.reddit.com/r/hanren/|
+>
+> |author|gmail|social media|
+> |:-:|:-:|:-:|
+> ||wuhananyuming@gmail.com||
+> |Philosophia哲学社||https://twitter.com/philoso98472556|
+>
+> |illustrator|gmail|social media|website|
+> |:-:|:-:|:-:|:-:|
+> |变态辣椒RebelPepper||https://mobile.twitter.com/remonwangxt|https://rebelpeppercartoons.com/|
+> |cusonlo||https://www.instagram.com/cusonlo/|
