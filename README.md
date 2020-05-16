@@ -21,8 +21,6 @@
 # Propaganda
 
 # Content
-<!--Remove bullets>
-
 <ul id="myUL">
   <li><span>Official</span>
     <ul>
