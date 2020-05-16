@@ -1,6 +1,10 @@
-|Official|website|RSS|
-|:-:|:-:|:-:|:-:|:-:|
-|發佈|https://journal.pincong.tk/|||https://t.me/ArtForPublic|
+# 發佈
+
+|Official||
+|:-:|:-:|
+|website|https://journal.pincong.tk/|
+|telegram|https://t.me/ArtForPublic|
+|RSS|
 
 |Offical Contacts||
 |:-:|:-:|
