@@ -21,45 +21,25 @@
 # Propaganda
 
 # Content
-<table id="basic">
-  <tr data-node-id="1">
-    <td>1</td>
-    <td>text of 1</td>
-  </tr>
-  <tr data-node-id="1.1" data-node-pid="1">
-    <td>1.1</td>
-    <td>text of 1.1</td>
-  </tr>
-  <tr data-node-id="1.1.1" data-node-pid="1.1">
-    <td>1.1.1</td>
-    <td>text of 1.1.1</td>
-  </tr>
-  <tr data-node-id="1.1.2" data-node-pid="1.1">
-    <td>1.1.2</td>
-    <td>text of 1.1.2</td>
-  </tr>
-  <tr data-node-id="1.2" data-node-pid="1">
-    <td>1.2</td>
-    <td>text of 1.2</td>
-  </tr>
-  <tr data-node-id="1.2.1" data-node-pid="1.2">
-    <td>1.2.1</td>
-    <td>text of 1.2.1</td>
-  </tr>
-  <tr data-node-id="1.2.2" data-node-pid="1.2">
-    <td>1.2.2</td>
-    <td>text of 1.2.2</td>
-  </tr>
-  <tr data-node-id="2">
-    <td>2</td>
-    <td>text of 2</td>
-  </tr>
-  <tr data-node-id="2.1" data-node-pid="2">
-    <td>2.1</td>
-    <td>text of 2.1</td>
-  </tr>
-  <tr data-node-id="2.2" data-node-pid="2">
-    <td>2.2</td>
-    <td>text of 2.2</td>
-  </tr>
-</table>
+<ul id="myUL">
+  <li><span class="caret">Beverages</span>
+    <ul class="nested">
+      <li>Water</li>
+      <li>Coffee</li>
+      <li><span class="caret">Tea</span>
+        <ul class="nested">
+          <li>Black Tea</li>
+          <li>White Tea</li>
+          <li><span class="caret">Green Tea</span>
+            <ul class="nested">
+              <li>Sencha</li>
+              <li>Gyokuro</li>
+              <li>Matcha</li>
+              <li>Pi Lo Chun</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
