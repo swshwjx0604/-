@@ -22,7 +22,7 @@
 
 # Content
 <ul id="myUL">
-  <li><span class="caret">Beverages</span>
+  <li><span class="caret">Official</span>
     <ul class="nested">
       <li>Water</li>
       <li>Coffee</li>
