@@ -21,6 +21,11 @@
 # Propaganda
 
 # Content
+/* Remove default bullets */
+ul, #myUL {
+  list-style-type: none;
+}
+
 <ul id="myUL">
   <li><span class="caret">Official</span>
     <ul class="nested">
