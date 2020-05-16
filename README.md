@@ -10,4 +10,4 @@
 |3|4|以小見大：從品葱月刊團隊成員被查水表細說中國政權自古以來的防民傳統|https://telegra.ph/品葱月刊-Vol3-04-26|
 |4|5|||
 # Propaganda
-[![https://youtu.be/wJ5J2fHOd2Q]]
+![https://youtu.be/wJ5J2fHOd2Q]
