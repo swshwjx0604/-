@@ -1,10 +1,10 @@
 |Official|website|RSS|
 |:-:|:-:|:-:|:-:|:-:|
-|發佈|https://journal.pincong.tk/|||https://pincong.rocks/people/journal_news|https://t.me/ArtForPublic|
-|投稿||
+|發佈|https://journal.pincong.tk/|||https://t.me/ArtForPublic|
 
 |Offical Contacts||
 |:-:|:-:|
+|pincong|https://pincong.rocks/people/journal_news|
 |email|pincongmagazine@protonmail.com|
 |telegram|https://t.me/ArtIsPublic|
 ***
