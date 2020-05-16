@@ -21,21 +21,19 @@
 # Propaganda
 
 # Content
-<!--Remove default bullets>
-
-ul, #myUL {list-style-type: none;}
+<!--Remove bullets>
 
 <ul id="myUL">
-  <li><span class="caret">Official</span>
-    <ul class="nested">
+  <li><span>Official</span>
+    <ul>
       <li>Water</li>
       <li>Coffee</li>
-      <li><span class="caret">Tea</span>
-        <ul class="nested">
+      <li><span>Tea</span>
+        <ul>
           <li>Black Tea</li>
           <li>White Tea</li>
-          <li><span class="caret">Green Tea</span>
-            <ul class="nested">
+          <li><span>Green Tea</span>
+            <ul>
               <li>Sencha</li>
               <li>Gyokuro</li>
               <li>Matcha</li>
