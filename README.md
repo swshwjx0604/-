@@ -21,7 +21,8 @@
 # Propaganda
 
 # Content
-/* Remove default bullets */
+<!--Remove default bullets>
+
 ul, #myUL {
   list-style-type: none;
 }
