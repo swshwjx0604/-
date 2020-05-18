@@ -1,3 +1,5 @@
+# About Us
+
 |Official||
 |:-:|:-:|
 |website|https://journal.pincong.tk/|
