@@ -1,6 +1,6 @@
 English | [中文]()
 
-![alt text](/path/img.jpg "Title")
+![](/path/img.jpg "Title")
 
 [Visit Our Sites!](https://journal.pincong.tk/)
 
