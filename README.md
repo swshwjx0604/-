@@ -2,8 +2,6 @@ English | [中文]()
 
 ![alt text](/path/img.jpg "Title")
 
-<align="center">
-
 [Visit Our Sites!](https://journal.pincong.tk/)
 
 # Content
