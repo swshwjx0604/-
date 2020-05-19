@@ -1,5 +1,7 @@
+<!-->English | [简体中文](./README.zh-CN.md) | [Русский](./README.ru-RU.md) | [Türkçe](./README.tr-TR.md) | [日本語](./README.ja-JP.md) | [Français](./README.fr-FR.md) | [Português](./README.pt-BR.md)</!-->
+
 ![alt text](/path/img.jpg "Title")
-<p style="text-align: center;">
+<p text-align: center;>
   [Visit Our Sites!](https://journal.pincong.tk/)
 </p>
 
