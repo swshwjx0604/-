@@ -1,5 +1,5 @@
 ![alt text](/path/img.jpg "Title")
-[Visit Our Sites!](https://journal.pincong.tk/)
+<p style="text-align: center;">[Visit Our Sites!](https://journal.pincong.tk/)</p>
 
 # Content
 > ## 品葱月刊
