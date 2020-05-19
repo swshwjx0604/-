@@ -1,6 +1,6 @@
 English | [中文]()
 
-![](https://github.com/miss2483466793/Project-PincongMonthlyMagazine/blob/master/Source/%E5%93%81%E8%91%B1/pincongLogo.png)
+![](https://github.com/miss2483466793/Project-PincongMonthlyMagazine/blob/master/Source/%E5%93%81%E8%91%B1/pincongLogo.png =10x10)
 
 [Visit Our Sites!](https://journal.pincong.tk/)
 
