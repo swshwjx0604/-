@@ -4,7 +4,6 @@
 
 <align="center">
   [Visit Our Sites!](https://journal.pincong.tk/)
-<>
 
 # Content
 > ## 品葱月刊
