@@ -12,7 +12,8 @@
 |email|pincongmagazine@protonmail.com|
 |telegram|https://t.me/ArtIsPublic|
 
-# 發佈
+# Content
+## 品葱月刊
 |Vol|month|topic|telegraph|
 |:-:|:-:|:-|:-|
 |1|1|踏上理想的征途|https://telegra.ph/品葱月刊-Vol1-02-02|
@@ -21,7 +22,5 @@
 |4|5|記香港抗爭一週年||
 
 # Propaganda
-
-# Content
 
 # Comming Soon
