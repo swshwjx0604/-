@@ -1,3 +1,5 @@
+[Visit Our Sites!](https://journal.pincong.tk/)
+
 # Content
 > ## 品葱月刊
 > |Vol|month|topic|telegraph|
