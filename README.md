@@ -1,4 +1,4 @@
-English | [中文](https://github.com/miss2483466793/Project-PincongMonthlyMagazine)
+English | [中文](/miss2483466793/Project-PincongMonthlyMagazine)
 
 ![alt text](/path/img.jpg "Title")
 
