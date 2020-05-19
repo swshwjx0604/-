@@ -1,5 +1,3 @@
-English | [中文]()
-
 <img src=https://github.com/miss2483466793/Project-PincongMonthlyMagazine/blob/master/Source/%E5%93%81%E8%91%B1/pincongLogo.png width=15%>
 
 # Content
