@@ -1,3 +1,4 @@
+![alt text](/path/img.jpg "Title")
 [Visit Our Sites!](https://journal.pincong.tk/)
 
 # Content
