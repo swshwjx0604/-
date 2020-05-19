@@ -1,4 +1,4 @@
-English | [中文](/miss2483466793/Project-PincongMonthlyMagazine)
+English | [中文]()
 
 ![alt text](/path/img.jpg "Title")
 
