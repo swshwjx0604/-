@@ -1,6 +1,6 @@
 English | [中文]()
 
-![](/path/img.jpg "Title")
+![](https://github.com/miss2483466793/Project-PincongMonthlyMagazine/blob/master/Source/%E5%93%81%E8%91%B1/pincongLogo.png "Title")
 
 [Visit Our Sites!](https://journal.pincong.tk/)
 
