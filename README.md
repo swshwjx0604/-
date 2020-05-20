@@ -1,4 +1,4 @@
-<img src=https://github.com/miss2483466793/Project-PincongMonthlyMagazine/blob/master/Source/%E5%93%81%E8%91%B1/Logo.png width=15%>
+<img src=/Source/品葱/Logo.png width=15%>
 
 # Content
 
