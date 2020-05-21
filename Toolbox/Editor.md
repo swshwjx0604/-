@@ -1,2 +1,0 @@
-Facemoji
-https://telegra.ph/
