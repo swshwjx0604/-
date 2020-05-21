@@ -12,6 +12,7 @@
 |||||
 
 - ## Comming Soon
+-- RSS
 
 # About Us
 |telegram||
@@ -27,5 +28,4 @@
 |:-:|:-:|
 |website|https://journal.pincong.tk/|
 |pincong|https://pincong.rocks/people/journal_news|
-|RSS|
 # Propaganda
