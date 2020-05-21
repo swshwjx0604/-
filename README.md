@@ -15,7 +15,7 @@
   - RSS
 
 # About Us
-Visit Us- https://journal.pincong.tk/|
+Visit Us- https://journal.pincong.tk/
 
 |telegram||
 |:-:|:-:|
