@@ -15,6 +15,8 @@
   - RSS
 
 # About Us
+|Visit Us|https://journal.pincong.tk/|
+
 |telegram||
 |:-:|:-:|
 |channel|https://t.me/ArtForPublic|
@@ -24,7 +26,6 @@
 |:-:|:-:|
 |email|pincongmagazine@protonmail.com|
 
-|Visit Us||
+|Follow Us||
 |:-:|:-:|
-|website|https://journal.pincong.tk/|
 |pincong|https://pincong.rocks/people/journal_news|
