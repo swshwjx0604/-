@@ -24,7 +24,7 @@
 |:-:|:-:|
 |email|pincongmagazine@protonmail.com|
 
-|||
+|Visit Us||
 |:-:|:-:|
 |website|https://journal.pincong.tk/|
 |pincong|https://pincong.rocks/people/journal_news|
