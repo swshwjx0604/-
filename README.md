@@ -28,4 +28,3 @@
 |:-:|:-:|
 |website|https://journal.pincong.tk/|
 |pincong|https://pincong.rocks/people/journal_news|
-# Propaganda
