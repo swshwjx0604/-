@@ -19,12 +19,12 @@
 |channel|https://t.me/ArtForPublic|
 |group|https://t.me/ArtIsPublic|
 
-|website|https://journal.pincong.tk/|
-|pincong|https://pincong.rocks/people/journal_news|
-|RSS|
-
 |Contact Us||
 |:-:|:-:|
 |email|pincongmagazine@protonmail.com|
 
+|:-:|:-:|
+|website|https://journal.pincong.tk/|
+|pincong|https://pincong.rocks/people/journal_news|
+|RSS|
 # Propaganda
