@@ -1,4 +1,4 @@
-<img src=/Source/Image/Logo.png width=15%>
+<img src=Logo.png width=15%>
 
 # Content
 - ## [品葱月刊](/品葱月刊)
