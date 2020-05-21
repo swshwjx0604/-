@@ -12,7 +12,7 @@
 |||||
 
 - ## Comming Soon
--- RSS
+  - RSS
 
 # About Us
 |telegram||
