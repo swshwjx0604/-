@@ -18,11 +18,12 @@
 |:-:|:-:|
 |website|https://journal.pincong.tk/|
 |telegram|https://t.me/ArtForPublic|
+|pincong|https://pincong.rocks/people/journal_news|
 |RSS|
 
-|Offical Contacts||
+# Contact Us
+|||
 |:-:|:-:|
-|pincong|https://pincong.rocks/people/journal_news|
 |email|pincongmagazine@protonmail.com|
 |telegram|https://t.me/ArtIsPublic|
 
