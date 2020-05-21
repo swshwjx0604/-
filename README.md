@@ -14,17 +14,17 @@
 - ## Comming Soon
 
 # About Us
+|telegram||
+|:-:|:-:|
+|channel|https://t.me/ArtForPublic|
+|group|https://t.me/ArtIsPublic|
+
 |Official||
 |:-:|:-:|
 |website|https://journal.pincong.tk/|
-|telegram|https://t.me/ArtForPublic|
 |pincong|https://pincong.rocks/people/journal_news|
 |RSS|
+|email|pincongmagazine@protonmail.com|
 
 # Contact Us
-|||
-|:-:|:-:|
-|email|pincongmagazine@protonmail.com|
-|telegram|https://t.me/ArtIsPublic|
-
 # Propaganda
