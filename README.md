@@ -1,4 +1,5 @@
-<a href="https://journal.pincong.tk/" alt="Visit Us">
+# Click our logo to visit us !
+<a href="https://journal.pincong.tk/">
 <img src=Logo.png width=15%>
 
 # Content
