@@ -14,9 +14,6 @@
   ||||
 
 - ## Comming Soon
-  ### Year 2021
-  |Vol|month|topic|telegraph|RSS|
-  |:-:|:-:|:-|:-|:-|
 
 # About Us
 Visit Us- https://journal.pincong.tk/
