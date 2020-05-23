@@ -1,4 +1,4 @@
-# Click our logo to visit us !
+# Click our logo to visit our official website !!!
 <a href="https://journal.pincong.tk/">
 <img src=Logo.png width=15%>
 
