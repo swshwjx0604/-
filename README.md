@@ -1,4 +1,5 @@
 <img src=Logo.png width=15%>
+[Visit Us](https://journal.pincong.tk/)
 
 # Content
 - ## [品葱月刊](/品葱月刊)
@@ -16,8 +17,6 @@
 - ## Comming Soon
 
 # About Us
-Visit Us- https://journal.pincong.tk/
-
 |telegram||
 |:-:|:-:|
 |channel|https://t.me/ArtForPublic|
