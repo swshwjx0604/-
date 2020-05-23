@@ -1,5 +1,5 @@
-<a href="https://journal.pincong.tk/">
-<img alt="Visit Us" src=Logo.png width=15%>
+<a href="https://journal.pincong.tk/" alt="Visit Us">
+<img src=Logo.png width=15%>
 
 # Content
 - ## [品葱月刊](/品葱月刊)
