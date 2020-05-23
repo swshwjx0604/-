@@ -1,6 +1,4 @@
-<img src=Logo.png width=15%>
-
-![Visit Us](https://journal.pincong.tk/)
+<img src=Logo.png width=15% alt="Visit Us" src=https://journal.pincong.tk/>
 
 # Content
 - ## [品葱月刊](/品葱月刊)
