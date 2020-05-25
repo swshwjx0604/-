@@ -11,17 +11,7 @@
 |4|https://archive.org/|
 |5|https://www.wuhancrisis.com/about.html|
 
-***
-
-|Download||
-|:-:|:-:|
-|1|https://downloadgram.com/|
-
-***
-
 # Editor
 |Text||
 |:-:|:-:|
 |1|https://telegra.ph/|
-
-***
