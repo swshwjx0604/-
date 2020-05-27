@@ -19,7 +19,7 @@
 
 # About Us
 |telegram||
-|:-:|:-:|
+|:-|:-|
 |channel|https://t.me/ArtForPublic|
 |group|https://t.me/ArtIsPublic|
 
