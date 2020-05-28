@@ -1,4 +1,4 @@
-![Visit Us](https://journal.pincong.tk/)
+# [Visit Us](https://journal.pincong.tk/)
 
 <img src=Logo.png width=15%>
   
