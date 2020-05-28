@@ -5,7 +5,9 @@
 # Content
 - ## [品葱月刊](/品葱月刊)
   - ### [Year 2020](/品葱月刊/2020.md)
-  import * from '/品葱月刊/2020.md';
+  
+  <link href="/品葱月刊/2020.md" rel="import" />
+  
   |Vol|month|topic|telegraph|
   |:-:|:-:|:-|:-|
   |1|1|踏上理想的征途|https://telegra.ph/品葱月刊-Vol1-02-02|
