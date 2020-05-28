@@ -6,12 +6,7 @@
 - ## [品葱月刊](/品葱月刊)
   - [Year 2020](/品葱月刊/2020.md)
   
-  <iframe 
-  title="2020.md"
-  src="/品葱月刊/2020.md"
-  width=100%
-  >
-  </iframe>
+  <link rel="import" href="/品葱月刊/2020.md>
   
 - ## Comming Soon
   - Podcast
