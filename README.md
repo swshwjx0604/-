@@ -8,6 +8,21 @@
   
   <link rel="import" href="/品葱月刊/2020.md>
   
+  v2.0
+├── Getting Started.md
+├── Getting Started
+│   ├── Introduction.md
+│   ├── Best Practices.md
+|   └── Features.md
+|       Features
+|       └──  Open Source.md 
+│   ├── Hub 2 Upgrade FAQ.md
+│   ├── Contact Support.md
+└── General
+    ├── Dashboard.md    
+    └── Dashboard
+        └── Profile.md
+  
 - ## Comming Soon
   - Podcast
   
