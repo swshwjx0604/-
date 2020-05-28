@@ -1,5 +1,5 @@
-# Click our logo to visit our official website !!!
-<a href="https://journal.pincong.tk/">
+![Visit Us](https://journal.pincong.tk/)
+
 <img src=Logo.png width=15%>
   
 ***
