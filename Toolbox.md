@@ -14,3 +14,19 @@
 |Text||
 |:-:|:-:|
 |1|https://telegra.ph/|
+
+# About Us
+|telegram||
+|:-|:-|
+|channel|https://t.me/ArtForPublic|
+|group|https://t.me/ArtIsPublic|
+
+|Contact Us||
+|:-:|:-:|
+|email|pincongmagazine@protonmail.com|
+
+|Follow Us||
+|:-:|:-:|
+|pincong|https://pincong.rocks/people/journal_news|
+
+# [Visit Us](https://journal.pincong.tk/)
