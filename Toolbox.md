@@ -28,5 +28,3 @@
 |Follow Us||
 |:-:|:-:|
 |pincong|https://pincong.rocks/people/journal_news|
-
-# [Visit Us](https://journal.pincong.tk/)
