@@ -13,7 +13,7 @@
 |5|高登音樂台|https://www.youtube.com/channel/UC-PbFMH4uhmqO71Gyxr5A-g/videos|
 
 # 時評
-|Video|||
+|Video||Channel|
 |:-|:-|:-|
 |1|驚訊|
 
