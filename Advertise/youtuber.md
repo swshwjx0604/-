@@ -15,7 +15,7 @@
 # 時評
 |Video||Channel|
 |:-|:-|:-|
-|1|驚訊||https://www.youtube.com/channel/UCU5MOgUdLqitxKZRZy9vnnw/videos|
+|1|驚訊|https://www.youtube.com/channel/UCU5MOgUdLqitxKZRZy9vnnw/videos|
 
 |Channel|||Website|
 |:-|:-|:-|:-|
