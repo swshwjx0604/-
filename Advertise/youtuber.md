@@ -15,10 +15,11 @@
 # 時評
 |Video||Channel|
 |:-|:-|:-|
-|1|驚訊|
+|1|驚訊||https://www.youtube.com/channel/UCU5MOgUdLqitxKZRZy9vnnw/videos|
 
-|Channel|||
-|:-|:-|:-|
+|Channel|||Website|
+|:-|:-|:-|:-|
 |1|財經冷眼|https://www.youtube.com/channel/UCn9_KbNANeyYREePe8YA2DA/videos|
 |2|冷山時評|https://www.youtube.com/channel/UCvWukt3s8gvlfILooY8GYBg/videos|
-|3|
+|3|公子沈|https://www.youtube.com/channel/UCrGSFNEBmCN0rqhATZels2Q/videos|https://gongzishen.com/|
+|4|城寨|https://www.youtube.com/user/kowloonsingjai/videos|
