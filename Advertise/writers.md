@@ -5,3 +5,11 @@
 |2|Philosophia哲學社|https://matters.news/@philosophia||https://twitter.com/philoso98472556|
 |3|張潔平|https://matters.news/@az|
 |4|
+
+#
+黃禍
+|文摘|author|source|
+|:-:|:-:|:-:|
+|1|鲁迅|https://zh.wikisource.org/wiki/Author:%E9%AD%AF%E8%BF%85|
+|2|劉曉波||
+|3|陳冠中|
