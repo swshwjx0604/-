@@ -8,8 +8,3 @@
 |5|催淚之城|
 |6|自由．飛|
 |7|Freedom Is A Serious Crime||https://vimeo.com/422664003|
-
-# Comic
-|||
-|:-|:-|
-|孫文的野望|
