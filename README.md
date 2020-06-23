@@ -8,4 +8,4 @@
   - [Year 2021](/品葱月刊/2021.md)
 - ## Comming Soon
   - Podcast
-  - Video(Youtube maybe)
+  - Video
