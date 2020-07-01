@@ -1,4 +1,4 @@
-<img src="logo.png." width=10%>
+<img src="Logo.png." width=10%>
 
 # Content
 - ## [品葱月刊](/品葱月刊)
