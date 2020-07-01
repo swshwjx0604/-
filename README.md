@@ -1,15 +1,12 @@
-# Geng Shuang Emulator
+<img src="logo.png." width=10%>
 
-耿爽模拟器，用于模仿中国外交部发言人耿爽的言论。[原帖地址(需翻墙)](https://pincong.rocks/article/9938) | 在线体验: https://gengshuang1.github.io/ 。姐妹版-华春莹模拟器：https://dogenationhk.github.io/
+# Content
+- ## [品葱月刊](/品葱月刊)
+  - [Year 2020](/品葱月刊/2020.md)
+  - [Year 2021](/品葱月刊/2021.md)
 
-A Geng Shuang speech emulator. Originally created by [xwgmdjc](https://github.com/xwgmdjc).
-
-### 分支改进
-
-- UI/UX 优化与重设计
-- 表单提交检查与随机输入生成
-- 响应式支持
-
-![gspreview.png](https://i.loli.net/2019/11/30/T9AwOQnHGxJYZ4U.png)
-
-![gspreview.png](https://raw.githubusercontent.com/fedink/GengShuangEmulator/master/gspreview.png)
+- ## Comming Soon
+  - Podcast
+  - Video
+  - 討論區
+  - 政治光譜測試
