@@ -10,11 +10,6 @@
 |4|https://archive.org/|
 |5|https://www.wuhancrisis.com/about.html|
 
-# Editor
-|Text||
-|:-:|:-:|
-|1|https://telegra.ph/|
-
 # About Us
 |telegram||
 |:-|:-|
