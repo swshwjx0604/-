@@ -8,5 +8,3 @@
 - ## Podcast
 - ## Video
 - ## Comming Soon
-  - 討論區
-  - 政治光譜測試
