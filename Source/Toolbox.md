@@ -9,17 +9,3 @@
 |3|https://terminus2049.github.io/|
 |4|https://archive.org/|
 |5|https://www.wuhancrisis.com/about.html|
-
-# About Us
-|telegram||
-|:-|:-|
-|channel|https://t.me/ArtForPublic|
-|group|https://t.me/ArtIsPublic|
-
-|Contact Us||
-|:-:|:-:|
-|email|pincongmagazine@protonmail.com|
-
-|Follow Us||
-|:-:|:-:|
-|pincong|https://pincong.rocks/people/journal_news|
