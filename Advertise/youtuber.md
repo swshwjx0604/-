@@ -25,3 +25,5 @@
 |2|冷山時評|https://www.youtube.com/channel/UCvWukt3s8gvlfILooY8GYBg/videos|
 |3|公子沈|https://www.youtube.com/channel/UCrGSFNEBmCN0rqhATZels2Q/videos|https://gongzishen.com/|
 |4|城寨|https://www.youtube.com/user/kowloonsingjai/videos|
+|5|Too Simple Sometimes Naive|https://www.youtube.com/channel/UC4ABi-kCsS1rsAaJ-W4a3uA/videos|
+|6|Ng Sam|https://www.youtube.com/c/NgSam/videos|
