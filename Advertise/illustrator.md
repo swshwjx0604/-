@@ -5,6 +5,7 @@
 |ah_to_hk|https://www.instagram.com/ah_to_hk/|
 |Kit da sketch|https://twitter.com/kitdasketch|
 |Cian Ci|https://twitter.com/Cian_Ci|
+||https://twitter.com/taocomic|
 
 # Comic
 |||
