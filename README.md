@@ -1,6 +1,6 @@
 <img src="Logo.png" width=10%>
 
-# Topic
+# 專欄
 - ## [壯哉我大天朝](/專欄/壯哉我大天朝.md)
 
 # 發佈形式
