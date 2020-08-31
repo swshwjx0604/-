@@ -1,5 +1,20 @@
 <img src="Logo.png" width=10%>
 
+# Pincong
+- https://pincong.rocks/people/journal_news
+
+# Telegram
+- ## Channel
+  - https://t.me/ArtForPublic
+- ## Group
+  - https://t.me/ArtIsPublic
+
+***
+
+# Contact
+- ## Email
+  -pincongmagazine@protonmail.com
+  
 ***
 
 # 團隊項目
