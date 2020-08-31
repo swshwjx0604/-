@@ -1,3 +1,10 @@
-# Timeline
 # Person
-- Quote
+- ## Name
+- ## Date
+  - Birth
+  - Death
+- ## Life Story
+  - Quote
+
+# Timeline
+# Area
