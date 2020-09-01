@@ -13,7 +13,7 @@
 
 # Contact
 - ## Email
-  -pincongmagazine@protonmail.com
+  - pincongmagazine@protonmail.com
   
 ***
 
