@@ -1,6 +1,5 @@
 # Category
 # Tag
-# Release
 # Person
 - ## Name
 - ## Date
