@@ -5,9 +5,15 @@
 |3|天空享知道|https://www.youtube.com/c/%E5%A4%A9%E7%A9%BA%E4%BA%AB%E7%9F%A5%E9%81%93/videos|
 
 # News
-||||
+|Chinese|||
 |:-|:-|:-|
-|1|
+|1|rthk|https://www.rthk.hk/|
+|2|apple daily|https://hk.appledaily.com/|
+|3|||
+
+|English|||
+|:-|:-|:-|
+|1|reuters|https://www.reuters.com/news/world|
 
 # Example
 ||||
