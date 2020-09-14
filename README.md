@@ -40,7 +40,7 @@
   - [Year 2020](/Release/品葱月刊/2020.md)
   - [Year 2021](/Release/品葱月刊/2021.md)
 - ## Podcast
-- ## Youtube Video
+- ## Video
 
 ***
 
