@@ -19,6 +19,7 @@
 |Chinese|||
 |:-|:-|:-|
 |1|liber research community|https://liber-research.com/|
+|2|pew research center|https://www.pewresearch.org/|
 
 # Example
 ||||
