@@ -27,3 +27,5 @@
 |4|城寨|https://www.youtube.com/user/kowloonsingjai/videos|
 |5|Too Simple Sometimes Naive|https://www.youtube.com/channel/UC4ABi-kCsS1rsAaJ-W4a3uA/videos|
 |6|Ng Sam|https://www.youtube.com/c/NgSam/videos|
+|7|Stan from Poland 斯坦說中文|https://www.youtube.com/c/StanfromPoland%E6%96%AF%E5%9D%A6%E8%AA%AA%E4%B8%AD%E6%96%87/videos|
+|8|LeLe Farley|https://www.youtube.com/c/LeLeFarley/videos|
